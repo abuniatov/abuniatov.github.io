@@ -2,36 +2,36 @@
   {
     "baseCurrency": "EUR",
     "targetCurrency": "USD",
-    "exchangeRate": 1.1
+    "rate": 1.1
   },
   {
     "baseCurrency": "DKK",
     "targetCurrency": "EUR",
-    "exchangeRate": 0.1
+    "rate": 0.1
   },
   {
     "baseCurrency": "DKK",
     "targetCurrency": "SEK",
-    "exchangeRate": 1.5
+    "rate": 1.5
   },
   {
     "baseCurrency": "SEK",
     "targetCurrency": "DKK",
-    "exchangeRate": 0.6
+    "rate": 0.6
   },
   {
     "baseCurrency": "USD",
     "targetCurrency": "DKK",
-    "exchangeRate": 6.7
+    "rate": 6.7
   },
   {
     "baseCurrency": "USD",
     "targetCurrency": "SEK",
-    "exchangeRate": 9.0
+    "rate": 9.0
   },    
   {
     "baseCurrency": "SEK",
     "targetCurrency": "USD",
-    "exchangeRate": 0.1
+    "rate": 0.1
   }
 ]
