@@ -1,37 +1,37 @@
 [
   {
-    "baseCurrency": "EUR",
-    "targetCurrency": "USD",
+    "base": "EUR",
+    "target": "USD",
     "rate": 1.1
   },
   {
-    "baseCurrency": "DKK",
-    "targetCurrency": "EUR",
+    "base": "DKK",
+    "target": "EUR",
     "rate": 0.1
   },
   {
-    "baseCurrency": "DKK",
-    "targetCurrency": "SEK",
+    "base": "DKK",
+    "target": "SEK",
     "rate": 1.5
   },
   {
-    "baseCurrency": "SEK",
-    "targetCurrency": "DKK",
+    "base": "SEK",
+    "target": "DKK",
     "rate": 0.6
   },
   {
-    "baseCurrency": "USD",
-    "targetCurrency": "DKK",
+    "base": "USD",
+    "target": "DKK",
     "rate": 6.7
   },
   {
-    "baseCurrency": "USD",
-    "targetCurrency": "SEK",
+    "base": "USD",
+    "target": "SEK",
     "rate": 9.0
   },    
   {
-    "baseCurrency": "SEK",
-    "targetCurrency": "USD",
+    "base": "SEK",
+    "target": "USD",
     "rate": 0.1
   }
 ]
